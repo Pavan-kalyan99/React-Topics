@@ -1,3 +1,4 @@
+// This is custome hook of a counter ,accessing globally
 import React, { useState } from 'react'
 
 const useCounter = () => {
